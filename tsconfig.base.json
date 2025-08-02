@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@money-purse-2/test-2": ["libs/test-2/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

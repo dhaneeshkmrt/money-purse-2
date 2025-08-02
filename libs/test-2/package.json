@@ -1,0 +1,9 @@
+{
+  "name": "@money-purse-2/test-2",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^20.1.0",
+    "@angular/core": "^20.1.0"
+  },
+  "sideEffects": false
+}
